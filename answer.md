@@ -65,6 +65,8 @@ Java 8 HashMap에서는 Entry 클래스 대신 Node 클래스를 사용한다. N
 해시 버킷 크기를 두 배로 확장하는 임계점은 현재의 데이터 개수가 'load factor * 현재의 해시 버킷 개수'에 이를 때이다. 이 load factor는 0.75 즉 3/4이다. 이 load factor 또한 HashMap의 생성자에서 지정할 수 있다.
 
 출처 : 
-https://develaniper-devpage.tistory.com/88,
-https://velog.io/@xogml951/%EC%9E%90%EB%B0%94-%EC%84%A4%EA%B3%84-%EA%B2%B0%ED%95%A8
-https://d2.naver.com/helloworld/831311
+- https://mangkyu.tistory.com/30
+- https://mangkyu.tistory.com/15
+- https://develaniper-devpage.tistory.com/88
+- https://velog.io/@xogml951/%EC%9E%90%EB%B0%94-%EC%84%A4%EA%B3%84-%EA%B2%B0%ED%95%A8
+- https://d2.naver.com/helloworld/831311
